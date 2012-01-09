@@ -1,6 +1,7 @@
-Google Talk Status Countdown
+#    Google Talk Status Countdown
 A small Java application that allows you to set a countdown in your [Google Talk](http://www.google.com/talk/)/[XMPP](http://www.xmpp.org/) status.
 It uses the [Smack XMPP Library](http://www.igniterealtime.org/downloads/index.jsp).
+
 http://mpcabd.igeex.biz/google-talk-status-countdown/
 
 #    License
